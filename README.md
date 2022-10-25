@@ -4,7 +4,8 @@ Changed from v3 to v4, because some things changed, may add some other scripts t
 
 Added Settings tab, which contains Keybind to open/hide gui.
 
-Add Credits tab, which contains my discord to contact me if something is not working, which is seacut#1798.
+Added Credits tab, which contains my discord to contact me if something is not working, which is seacut#1798.
+
 
 
 -- Welcome To Server Utilities Script,
